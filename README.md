@@ -1,7 +1,7 @@
 # Explain Model Prediction with a Proper Set of Examples
 Black Box interpretable machine learning (cifar-10 dataset)
 
-Steps to run:
+# Steps to run:
 
 1. Create conda environment via environment.yml
 2. Change the writing directory in "run_counterfactual.py", "run_influence_function.py".
